@@ -1,8 +1,8 @@
 # Observatory of Elections
 
-Repository of the discipline Observatory of Elections, taught by Professor Jaqueline Porto Zulini (FGV CPDOC).
+This is my personal repository of the discipline Observatory of Elections, taught by Professor Jaqueline Porto Zulini (FGV CPDOC).
 
-It contains my personal class notes. For each class, there is a collection of the main excerpts from the text read for the class, 
+It contains all class notes I have written during the semester. For each class, there is a collection of the main excerpts from the text read for the class, 
 class notes and my personal answer to a question developed by the Professor according to the topic of the class.
 
 The repository also includes the material I prepared for a seminar I did for the other students. It was based on the Professor's reading 
